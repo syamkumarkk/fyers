@@ -1,0 +1,1 @@
+{"level":"ERROR","location":"[get_call:161] fyersModel","message":{"API":"/history","error":"Expecting value: line 1 column 1 (char 0)"},"timestamp":"2024-11-19 12:54:37,701+0530","service":"FyersAPI"}

@@ -1,0 +1,3 @@
+{"level":"DEBUG","location":"[get_call:137] fyersModel","message":{"Status Code":200,"API":"/holdings"},"timestamp":"2024-11-19 12:44:46,022+0530","service":"FyersAPIRequest"}
+{"level":"DEBUG","location":"[get_call:137] fyersModel","message":{"Status Code":200,"API":"/orders"},"timestamp":"2024-11-19 12:47:10,243+0530","service":"FyersAPIRequest"}
+{"level":"DEBUG","location":"[get_call:137] fyersModel","message":{"Status Code":200,"API":"/history"},"timestamp":"2024-11-19 12:54:37,701+0530","service":"FyersAPIRequest"}
