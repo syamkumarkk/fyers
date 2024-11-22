@@ -1,1 +1,5 @@
 {"level":"ERROR","location":"[get_call:161] fyersModel","message":{"API":"/history","error":"Expecting value: line 1 column 1 (char 0)"},"timestamp":"2024-11-19 12:54:37,701+0530","service":"FyersAPI"}
+{"level":"ERROR","location":"[get_call:143] fyersModel","message":{"API":"/history","Error":{"code":-16,"message":"Could not authenticate the user","s":"error"}},"timestamp":"2024-11-21 16:08:56,299+0530","service":"FyersAPI"}
+{"level":"ERROR","location":"[get_call:143] fyersModel","message":{"API":"/history","Error":{"code":-16,"message":"Could not authenticate the user","s":"error"}},"timestamp":"2024-11-21 16:09:28,082+0530","service":"FyersAPI"}
+{"level":"ERROR","location":"[get_call:143] fyersModel","message":{"API":"/history","Error":{"code":-16,"message":"Could not authenticate the user","s":"error"}},"timestamp":"2024-11-21 16:12:15,729+0530","service":"FyersAPI"}
+{"level":"ERROR","location":"[get_call:143] fyersModel","message":{"API":"/history","Error":{"code":-16,"message":"Could not authenticate the user","s":"error"}},"timestamp":"2024-11-21 16:12:40,531+0530","service":"FyersAPI"}

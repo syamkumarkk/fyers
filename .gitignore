@@ -4,7 +4,9 @@
 #     https://www.atlassian.com/git/tutorials/saving-changes/gitignore
 
 # Node artifact files
-
+setup
+.ipynb_checkpoints
+__pycache__
 
 # Compiled Java class files
 *.class
