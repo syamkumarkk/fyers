@@ -34,7 +34,7 @@ If you haven't already installed the MongoDB Python driver (`pymongo`), you can 
 pip install pymongo
 ```
 
-### Step 2: Install MongoDB Python Driver
+### Step 2: MongoDB Connection Configuration
 
 In your Python script, you can configure the MongoDB connection as follows:
 
@@ -55,7 +55,7 @@ trades_collection = db['trades']
 logs_collection = db['logs']
 ```
 
-### Step 2: Install MongoDB Python Driver
+### Step 2: Storing Trade Data
 
 Once you have the MongoDB connection set up, you can store trade data. For example, after executing a trade through the Fyers API, you can store the trade details in MongoDB like so:
 
