@@ -32,7 +32,7 @@ If you haven't already installed the MongoDB Python driver (`pymongo`), you can 
 
 ```bash
 pip install pymongo
-
+```
 
 ### Step 2: Install MongoDB Python Driver
 

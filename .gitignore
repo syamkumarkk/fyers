@@ -55,5 +55,7 @@ Thumbs.db
 # Allow the specific
 
 
-# ignore the file literally named foo[01].txt
+# ignore the files
 credentials.py
+access.txt
+run.bat
