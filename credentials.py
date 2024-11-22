@@ -1,5 +1,5 @@
 #credentials
-client_id = "ORJMNEVXCY-100"  # Replace with your client ID
+client_id = "QRJMNEVXCY-100"  # Replace with your client ID
 secret_key = "CSJQAAQIE0"  # Replace with your secret key
 redirect_uri = "https://www.google.co.in"  # Replace with your redirect URI
 response_type = "code"  
