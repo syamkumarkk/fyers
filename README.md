@@ -53,6 +53,7 @@ db = client['trading_db']
 # Select the collection (table) where data will be stored
 trades_collection = db['trades']
 logs_collection = db['logs']
+```
 
 ### Step 2: Install MongoDB Python Driver
 
@@ -70,7 +71,7 @@ trade_data = {
 
 # Insert the trade data into the MongoDB collection
 trades_collection.insert_one(trade_data)
-
+```
 
 
 # Running the Code
