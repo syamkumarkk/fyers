@@ -55,7 +55,7 @@ trades_collection = db['trades']
 logs_collection = db['logs']
 ```
 
-### Step 2: Storing Trade Data
+### Step 3: Storing Trade Data
 
 Once you have the MongoDB connection set up, you can store trade data. For example, after executing a trade through the Fyers API, you can store the trade details in MongoDB like so:
 
